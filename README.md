@@ -1,6 +1,6 @@
 # Skolyart Espanso Packages
 
-This is a collection of [Espanso](https://espanso.org/) packages created and used by Skolyart. The packages are designed for personal use but are shared publicly for anyone to fork or use.  
+This is a collection of [Espanso](https://espanso.org/) packages created and used by Skolyart. The packages are designed for personal use but are shared publicly for anyone to fork or use. It also was used as a personal project for practicing using Git features the first time and getting into routine with them (which is the reason why it uses an unnecessary complex architecture like submodules or tags). 
 
 ## Usage
 
